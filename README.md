@@ -17,7 +17,7 @@ a API do mercado Livre.  Foi desemvolvida utilizando HTML, CSS e JavaScriptES6 e
 04 - Projeto TrybeTunes - Desenvolvi uma aplicação SPA para pesquisar e listar álbuns e músicas de várias bandas e artistas.
 Utilizei React Routere e  Lifecycle methods.
 
-05 - Projeto React testing library - Desenvolvi testes para uma aplicação React que já está criada e configurada, utilizando Jest e a biblioteca React Testing Library.
+05 - Projeto React testing library - Desenvolvi testes para uma aplicação React que já está criada e configurada, utilizando Jest e a biblioteca React Testing Library e stryker.
 
 06 - Projeto Jogo de Trivia - Desenvolvido em grupo aplicando o que aprendemos sobre React e Redux enquanto praticamos a organização de um projeto em equipe com agile Kanban.
 
