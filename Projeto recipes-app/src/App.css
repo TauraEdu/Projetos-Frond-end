@@ -1,0 +1,188 @@
+* {
+  background-color: white
+  /* #E61B04 */
+  
+}
+
+.meals {
+  align-items: center;
+  background: #0fa36b;
+  color: #464646;
+  display: flex;
+  flex-direction: column;
+  font-family: sans-serif;
+  height: 100vh;
+  justify-content: center;
+  width: 100%;
+}
+
+.rocksGlass {
+  animation: shake 1s infinite ease;
+  max-height: 80vh;
+}
+
+/*
+#iceLeft {
+  animation: clink .8s infinite ease;
+  opacity: 0.6;
+  transform-origin: 36px 66px;
+}
+
+#iceRight {
+  animation: clink .8s .2s infinite ease;
+  opacity: 0.6;
+  transform-origin: 60px 78px;
+}
+*/
+
+.meals > .logo {
+  animation: shake 1.5s infinite ease;
+  color: aliceblue;
+  font-family: Montserrat , sans-serif;
+  font-size: 3em;
+  font-weight: 900;
+}
+
+@keyframes shake {
+
+  0% {
+    transform: rotate(5deg);
+  }
+
+  50% {
+    transform: rotate(-5deg);
+  }
+
+  100% {
+    transform: rotate(5deg);
+  }
+}
+
+@keyframes clink {
+
+  0% {
+    transform: rotate(-10deg);
+  }
+
+  50% {
+    transform: rotate(20deg);
+  }
+
+  100% {
+    transform: rotate(-10deg);
+  }
+}
+
+/* .footer {
+  border-top: 1px solid #333;
+  bottom: 0;
+  height: 40px;
+  left: 0;
+  
+  width: 100%;
+} */
+
+/* .carousel {
+  display: flex;
+  overflow: scroll;
+
+  /* margin-bottom: calc(65px + 10px); */
+
+  /* width: 100vw; */
+/* } */ */
+
+/* .carousel h1 {
+  border: 2px solid black;
+  margin: 25px;
+  padding: 45px;
+} */
+
+.image-recipe-details {
+ 
+}
+
+.image-recomendation {
+  margin-right: 12px;
+  width: 175px;
+}
+
+.horizontal-image {
+  width: 70%;
+}
+
+/* .buttons-comp-Fav {
+  display: flex;
+  margin-bottom: 100px;
+  width: 10%;
+} */
+
+/* tela login começou aqui */
+
+.login-form {
+  align-content: center;
+  align-items: center;
+  background: linear-gradient(to bottom, #e66257 0%, #ff3300 100%);
+  text-align: center;
+  border-radius: 10px;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 250px;
+  justify-content: center;
+  margin: 0 auto;
+  margin-top: 60px;
+  width: 293px;
+}
+
+
+.login-form .img-title {
+  background-color: inherit;
+  display: flex;
+  align-items: flex-end;
+  justify-content:initial;
+  
+}
+
+.login-form img {
+  width: 70px;
+  background-color: inherit;
+}
+
+.login-form .title {
+  background: initial;
+  color:black;
+  font-size:28px;
+  font-family: Dancing Script;
+}
+
+
+
+.login-form .label-login {
+  background-color: inherit
+}
+
+
+.email-input, .password-input{
+  background-color: white;
+  padding: 5px;
+  width: 80%;
+  height: 31px;
+  border-radius: 5px;
+}
+
+.login-submit-btn {
+  color: black;
+  background-color: white;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  gap: 10px;
+  width: 60%;
+  padding: 6px;
+  border-radius: 10px;
+  border: 2px solid black
+}
+
+.login-submit-btn:hover {
+  background: linear-gradient(to bottom, #e66257 0%, #ff3300 100%)
+}
