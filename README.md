@@ -1,14 +1,14 @@
-Olá! Este repositorio contem todos os projetos feitos por min durante o curso de desenvolvimento Web bloco de Front-end na Trybe.
+Olá! Este repositório contém todos os projetos feitos por mim durante o curso de desenvolvimento Web bloco de Front-end na Trybe.
 
-Nele voce encontrara os projetos que fiz utilizando React, React Router, Redux, Context API,
+Nele você encontrará os projetos realizados utilizando React, React Router, Redux, Context API,
 
 React Hooks e testes automatizados com React Testing Library.
-No fechamento do modulo foi desenvolvido em grupo um app de Receitas.
+No fechamento do módulo foi desenvolvido em grupo um app de Receitas.
 
 # Projetos-Frond-end
 
-01 - Projeto Shopping Card - Desenvolvi uma pagina e-commerce integrada
-a API do mercado Livre.  Foi desemvolvida utilizando HTML, CSS e JavaScriptES6 e testes assícronos Jest.
+01 - Projeto Shopping Card - Desenvolvi uma página e-commerce integrada
+a API do mercado Livre.  Foi desenvolvida utilizando HTML, CSS e JavaScriptES6 e testes assícronos Jest.
 
 02 - Projeto Solar System - Desenvolvi minha primeira aplicação usando React. 
 
@@ -21,9 +21,9 @@ Utilizei React Routere e  Lifecycle methods.
 
 06 - Projeto Jogo de Trivia - Desenvolvido em grupo aplicando o que aprendemos sobre React e Redux enquanto praticamos a organização de um projeto em equipe com agile Kanban.
 
-07 - Projeto StarWars - Desenvolvi uma logica de filtros para uma tabela de dados. Utilizando Contex API e Hooks.
+07 - Projeto StarWars - Desenvolvi uma lógica de filtros para uma tabela de dados. Utilizando Contex API e Hooks.
 
-08 - Projeto App de Receitas - Projeto final do modulo de frontEnd. Foi desenvolvido em grupo utilizando tudo que
+08 - Projeto App de Receitas - Projeto final do módulo de frontEnd. Foi desenvolvido em grupo utilizando tudo que
 aprendemos no decorrer do curso.
 
 
